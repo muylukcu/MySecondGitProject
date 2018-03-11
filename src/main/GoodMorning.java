@@ -7,7 +7,8 @@ public class GoodMorning {
 
 		System.out.println("Few minutes left before the break");
 
-		System.out.println("You guys need some coffee?");
+		
+		System.out.println("Adding new line");
 
 	}
 }
