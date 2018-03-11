@@ -9,6 +9,8 @@ public class GoodMorning {
 
 		
 		System.out.println("Adding new line");
+		
+		System.out.println("Ekaterina was here");
 
 	}
 }
